@@ -1,6 +1,6 @@
 #include <iostream>
 #include <math.h>
-
+//try
 // function to add the elements of two arrays
 void add(int n, float *x, float *y)
 {
